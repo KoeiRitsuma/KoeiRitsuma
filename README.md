@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Student162009" alt="Student162009" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KoeiRitsuma" alt="KoeiRitsuma" /></a> </p>
 
 
 
@@ -61,13 +61,13 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Student162009&style=flat-square&color=blue" alt="EzikDima counter"/>
+<img src="https://komarev.com/ghpvc/?username=KoeiRitsuma&style=flat-square&color=blue" alt="EzikDima counter"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Student162009&show_icons=true&locale=en&layout=compact" alt="Student162009" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KoeiRitsuma&show_icons=true&locale=en&layout=compact" alt="KoeiRitsuma" /></p>
 
-[![Student162009's GitHub stats](https://github-readme-stats.vercel.app/api?username=Student162009&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![KoeiRitsuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoeiRitsuma&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Student162009&" alt="Student162009" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KoeiRitsuma&" alt="KoeiRitsuma" /></p>
 
 ---
 
@@ -79,24 +79,24 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <ul>
       <li><a href= "https://task-list2-0.onrender.com">Task list2.0</a></li>
-      <li><a href= "https://student162009.github.io/Mini-Calendar/">Mini Calendar</a></li>
-      <li><a href= "https://student162009.github.io/Stopwatch/">Stop-watch</a></li>
-      <li><a href= "https://student162009.github.io/Clock/">Clock</a></li>
-      <li><a href= "https://student162009.github.io/FUFELMEM/">Fufel prank</a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/Mini-Calendar/">Mini Calendar</a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/Stopwatch/">Stop-watch</a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/Clock/">Clock</a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/FUFELMEM/">Fufel prank</a></li>
 </ul>
 <details>
 <summary>More of my projects</summary>
 <ul>
-      <li><a href= "https://student162009.github.io/Task-list/">Task list</a></li>
-      <li><a href= "https://student162009.github.io/Relax-player/">Relax player</a></li>
-      <li><a href= "https://student162009.github.io/Fluppy-Bird/">Flappy-Bird(Only PC)(P.s. To play, press the space bar) </a></li>
-      <li><a href= "https://student162009.github.io/converter-money/">Convert money</a></li>
-      <li><a href= "https://student162009.github.io/Virtualkey/">Virtual Keybord(Only PC)</a></li>
-      <li><a href= "https://student162009.github.io/Calculator/">Virtual Calculator</a></li>
-      <li><a href= "https://student162009.github.io/Weatherapp/">Weather app</a></li>
-      <li><a href= "https://student162009.github.io/Converter/">Voice Converter(Only PC)</a></li>
-      <li><a href= "https://student162009.github.io/Search-image-gallery/">Image Gallery</a></li>
-      <li><a href= "https://student162009.github.io/Country/">Country</a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/Task-list/">Task list</a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/Relax-player/">Relax player</a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/Fluppy-Bird/">Flappy-Bird(Only PC)(P.s. To play, press the space bar) </a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/converter-money/">Convert money</a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/Virtualkey/">Virtual Keybord(Only PC)</a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/Calculator/">Virtual Calculator</a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/Weatherapp/">Weather app</a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/Converter/">Voice Converter(Only PC)</a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/Search-image-gallery/">Image Gallery</a></li>
+      <li><a href= "https://KoeiRitsuma.github.io/Country/">Country</a></li>
 </ul>
 </details>
 
