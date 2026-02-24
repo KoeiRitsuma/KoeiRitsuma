@@ -4,9 +4,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a student at **IT Step Academy** (Belarus).
-- 🦔 Beginner programmer who really loves hedgehogs.
-- 🚲 In my free time, I play mobile games and ride my bike.
+- 🎓 My name is Dmitriy. I'm from Belarus.
+- 🦔 Beginner programmer.
+- 🚲 In my free time, I watch anime and developing my soft skills.
 
 <img src="https://media3.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.webp" width="150" align="right"/>
 
@@ -28,10 +28,6 @@
 ---
 
 ### 📊 My Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoeiRitsuma&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-![KoeiRitsuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoeiRitsuma&show_icons=true&theme=cobalt)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KoeiRitsuma&theme=cobalt)
 
