@@ -38,20 +38,8 @@
 ### 📌 My Projects
 
 - [Task list 2.0](https://task-list2-0.onrender.com)
-- [Mini Calendar](https://KoeiRitsuma.github.io/Mini-Calendar/)
-- [Stopwatch](https://KoeiRitsuma.github.io/Stopwatch/)
-- [Clock](https://KoeiRitsuma.github.io/Clock/)
-- [FUFELMEM (prank)](https://KoeiRitsuma.github.io/FUFELMEM/)
-- [Task list](https://KoeiRitsuma.github.io/Task-list/)
-- [Relax player](https://KoeiRitsuma.github.io/Relax-player/)
-- [Flappy Bird (PC only, press space)](https://KoeiRitsuma.github.io/Fluppy-Bird/)
-- [Money converter](https://KoeiRitsuma.github.io/converter-money/)
-- [Virtual Keyboard (PC only)](https://KoeiRitsuma.github.io/Virtualkey/)
-- [Calculator](https://KoeiRitsuma.github.io/Calculator/)
-- [Weather app](https://KoeiRitsuma.github.io/Weatherapp/)
-- [Voice Converter (PC only)](https://KoeiRitsuma.github.io/Converter/)
-- [Image Gallery](https://KoeiRitsuma.github.io/Search-image-gallery/)
-- [Country info](https://KoeiRitsuma.github.io/Country/)
+- [Sakura no Kaze](https://sakura-no-kaze.vercel.app/)
+- [Zen ToDo list](https://disk.yandex.by/d/sjhul9LPyRX5XQ)
 
 ---
 
