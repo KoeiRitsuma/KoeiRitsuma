@@ -31,7 +31,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KoeiRitsuma&theme=cobalt)
 
-![Codewars](https://www.codewars.com/users/KoeiRitsuma/badges/large)](https://www.codewars.com/users/KoeiRitsuma)
+![Codewars](https://www.codewars.com/users/KoeiRitsuma/badges/large)(https://www.codewars.com/users/KoeiRitsuma)
 
 ---
 
